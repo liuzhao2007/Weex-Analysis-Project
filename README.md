@@ -8,4 +8,4 @@
 - [Weex源码分析系列（二）之Component组件源码解析](http://www.jianshu.com/u/fdb392adfbed)
 - [Weex源码分析系列（三）之Weex渲染流程解析](http://www.jianshu.com/p/3686315d3ad6)
 - [Weex源码分析系列（四）之Adapter组件源码解析](http://www.jianshu.com/p/8e85ef17381f)
-- [Weex源码分析系列（五）Weex SDK架构分析](http://www.jianshu.com/p/a04ce6689395)
+- [Weex源码分析系列（五）之Weex SDK架构分析](http://www.jianshu.com/p/a04ce6689395)
