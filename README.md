@@ -10,3 +10,5 @@
 - [Weex源码分析系列（四）之Adapter组件源码解析](http://www.jianshu.com/p/8e85ef17381f)
 - [Weex源码分析系列（五）之Weex SDK架构分析](http://www.jianshu.com/p/a04ce6689395)
 - [Weex源码分析系列（六）之Weex SDK可借鉴细节总结](https://www.jianshu.com/p/5133ce183a66)
+- [Weex源码分析系列（七）之Weex SDK可优化细节思考](https://www.jianshu.com/p/1ae77c412369)
+
